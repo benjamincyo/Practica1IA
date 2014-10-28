@@ -1,6 +1,8 @@
 Practica1IA
 ===========
 
-Primera Practica Inteligencia Artificial I \n
-Benjamin Calixto yoc Ortiz\n
+Primera Practica Inteligencia Artificial I
+
+Benjamin Calixto yoc Ortiz
+
 200819170
